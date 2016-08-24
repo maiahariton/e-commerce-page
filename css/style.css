@@ -70,8 +70,7 @@ section {
 }
 .card img {
   max-width: 160%;
-  margin-left: -80px;
-  margin-top: -10px;
+  margin-top: 80px;
   opacity: 0;
   -webkit-transition: all 1s ease;
   transition: all 1s ease;
